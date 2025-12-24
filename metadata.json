@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Farm-Direct",
+  "description": "A high-performance agricultural eCommerce platform connecting farmers directly to consumers, featuring role-based dashboards for admins, sellers, and buyers with AI-powered market insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
